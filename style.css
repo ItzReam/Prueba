@@ -45,7 +45,7 @@ body {
 .messenger {
 	height: 250px;
 	width: 250px;
-	margin-top: 20px;
+	margin-top: -500;
 	margin-left: 275px;
 	background-color: #28e050;
 }
